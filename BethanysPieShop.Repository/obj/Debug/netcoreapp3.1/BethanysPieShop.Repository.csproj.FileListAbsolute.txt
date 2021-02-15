@@ -1,0 +1,14 @@
+C:\Users\Kristijan\source\repos\BethanysPieShop\BethanysPieShop.Repository\bin\Debug\netcoreapp3.1\BethanysPieShop.Repository.deps.json
+C:\Users\Kristijan\source\repos\BethanysPieShop\BethanysPieShop.Repository\bin\Debug\netcoreapp3.1\BethanysPieShop.Repository.dll
+C:\Users\Kristijan\source\repos\BethanysPieShop\BethanysPieShop.Repository\bin\Debug\netcoreapp3.1\BethanysPieShop.Repository.pdb
+C:\Users\Kristijan\source\repos\BethanysPieShop\BethanysPieShop.Repository\obj\Debug\netcoreapp3.1\BethanysPieShop.Repository.csprojAssemblyReference.cache
+C:\Users\Kristijan\source\repos\BethanysPieShop\BethanysPieShop.Repository\obj\Debug\netcoreapp3.1\BethanysPieShop.Repository.AssemblyInfoInputs.cache
+C:\Users\Kristijan\source\repos\BethanysPieShop\BethanysPieShop.Repository\obj\Debug\netcoreapp3.1\BethanysPieShop.Repository.AssemblyInfo.cs
+C:\Users\Kristijan\source\repos\BethanysPieShop\BethanysPieShop.Repository\obj\Debug\netcoreapp3.1\BethanysPieShop.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Kristijan\source\repos\BethanysPieShop\BethanysPieShop.Repository\obj\Debug\netcoreapp3.1\BethanysPieShop.Repository.dll
+C:\Users\Kristijan\source\repos\BethanysPieShop\BethanysPieShop.Repository\obj\Debug\netcoreapp3.1\BethanysPieShop.Repository.pdb
+C:\Users\Kristijan\source\repos\BethanysPieShop\BethanysPieShop.Repository\bin\Debug\netcoreapp3.1\BethanysPieShop.Entities.dll
+C:\Users\Kristijan\source\repos\BethanysPieShop\BethanysPieShop.Repository\bin\Debug\netcoreapp3.1\BethanysPieShop.Entities.pdb
+C:\Users\Kristijan\source\repos\BethanysPieShop\BethanysPieShop.Repository\obj\Debug\netcoreapp3.1\BethanysPieShop.Repository.csproj.CopyComplete
+C:\Users\Kristijan\source\repos\BethanysPieShop\BethanysPieShop.Repository\bin\Debug\netcoreapp3.1\BethanysPieShop.Data.dll
+C:\Users\Kristijan\source\repos\BethanysPieShop\BethanysPieShop.Repository\bin\Debug\netcoreapp3.1\BethanysPieShop.Data.pdb

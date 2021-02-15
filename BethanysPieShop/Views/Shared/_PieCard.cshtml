@@ -1,0 +1,14 @@
+﻿@model Pie
+
+<div class="col px-2">
+    <div class="card mt-2">
+        <img src="@Model.ImageThumbnailUrl" alt="">
+        <div class="card-body">
+            <h3>
+                <a asp-controller="Pie" asp-action="Details" asp-route-id="@Model.PieId">@Model.Name</a>
+            </h3>
+            <h3 class="d-block">@Model.Price.ToString("c")</h3>
+            <p>@Model.ShortDescription</p>
+        </div>
+    </div>
+</div>

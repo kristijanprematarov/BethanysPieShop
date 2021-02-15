@@ -1,0 +1,8 @@
+C:\Users\Kristijan\source\repos\BethanysPieShop\BethanysPieShop.Service\bin\Debug\netcoreapp3.1\BethanysPieShop.Service.deps.json
+C:\Users\Kristijan\source\repos\BethanysPieShop\BethanysPieShop.Service\bin\Debug\netcoreapp3.1\BethanysPieShop.Service.dll
+C:\Users\Kristijan\source\repos\BethanysPieShop\BethanysPieShop.Service\bin\Debug\netcoreapp3.1\BethanysPieShop.Service.pdb
+C:\Users\Kristijan\source\repos\BethanysPieShop\BethanysPieShop.Service\obj\Debug\netcoreapp3.1\BethanysPieShop.Service.AssemblyInfoInputs.cache
+C:\Users\Kristijan\source\repos\BethanysPieShop\BethanysPieShop.Service\obj\Debug\netcoreapp3.1\BethanysPieShop.Service.AssemblyInfo.cs
+C:\Users\Kristijan\source\repos\BethanysPieShop\BethanysPieShop.Service\obj\Debug\netcoreapp3.1\BethanysPieShop.Service.csproj.CoreCompileInputs.cache
+C:\Users\Kristijan\source\repos\BethanysPieShop\BethanysPieShop.Service\obj\Debug\netcoreapp3.1\BethanysPieShop.Service.dll
+C:\Users\Kristijan\source\repos\BethanysPieShop\BethanysPieShop.Service\obj\Debug\netcoreapp3.1\BethanysPieShop.Service.pdb

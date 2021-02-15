@@ -1,0 +1,8 @@
+C:\Users\Kristijan\source\repos\BethanysPieShop\BethanysPieShop.Entities\bin\Debug\netcoreapp3.1\BethanysPieShop.Entities.deps.json
+C:\Users\Kristijan\source\repos\BethanysPieShop\BethanysPieShop.Entities\bin\Debug\netcoreapp3.1\BethanysPieShop.Entities.dll
+C:\Users\Kristijan\source\repos\BethanysPieShop\BethanysPieShop.Entities\bin\Debug\netcoreapp3.1\BethanysPieShop.Entities.pdb
+C:\Users\Kristijan\source\repos\BethanysPieShop\BethanysPieShop.Entities\obj\Debug\netcoreapp3.1\BethanysPieShop.Entities.AssemblyInfoInputs.cache
+C:\Users\Kristijan\source\repos\BethanysPieShop\BethanysPieShop.Entities\obj\Debug\netcoreapp3.1\BethanysPieShop.Entities.AssemblyInfo.cs
+C:\Users\Kristijan\source\repos\BethanysPieShop\BethanysPieShop.Entities\obj\Debug\netcoreapp3.1\BethanysPieShop.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Kristijan\source\repos\BethanysPieShop\BethanysPieShop.Entities\obj\Debug\netcoreapp3.1\BethanysPieShop.Entities.dll
+C:\Users\Kristijan\source\repos\BethanysPieShop\BethanysPieShop.Entities\obj\Debug\netcoreapp3.1\BethanysPieShop.Entities.pdb
