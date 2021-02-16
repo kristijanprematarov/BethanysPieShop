@@ -98,3 +98,6 @@ C:\Users\Kristijan\source\repos\BethanysPieShop\BethanysPieShop\obj\Debug\netcor
 C:\Users\Kristijan\source\repos\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Carousel.cshtml.g.cs
 C:\Users\Kristijan\source\repos\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
 C:\Users\Kristijan\source\repos\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\Kristijan\source\repos\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\ShoppingCart\Index.cshtml.g.cs
+C:\Users\Kristijan\source\repos\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\ShoppingCartSummary\Default.cshtml.g.cs
+C:\Users\Kristijan\source\repos\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CategoryMenu\Default.cshtml.g.cs

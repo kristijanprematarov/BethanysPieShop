@@ -6,3 +6,4 @@ C:\Users\Kristijan\source\repos\BethanysPieShop\BethanysPieShop.Service\obj\Debu
 C:\Users\Kristijan\source\repos\BethanysPieShop\BethanysPieShop.Service\obj\Debug\netcoreapp3.1\BethanysPieShop.Service.csproj.CoreCompileInputs.cache
 C:\Users\Kristijan\source\repos\BethanysPieShop\BethanysPieShop.Service\obj\Debug\netcoreapp3.1\BethanysPieShop.Service.dll
 C:\Users\Kristijan\source\repos\BethanysPieShop\BethanysPieShop.Service\obj\Debug\netcoreapp3.1\BethanysPieShop.Service.pdb
+C:\Users\Kristijan\source\repos\BethanysPieShop\BethanysPieShop.Service\obj\Debug\netcoreapp3.1\BethanysPieShop.Service.csprojAssemblyReference.cache

@@ -1,5 +1,6 @@
 using BethanysPieShop.Data;
 using BethanysPieShop.Entities;
+using BethanysPieShop.Models;
 using BethanysPieShop.Repository;
 using BethanysPieShop.Repository.Interfaces;
 using Microsoft.AspNetCore.Builder;
@@ -33,11 +34,11 @@ namespace BethanysPieShop
             services.AddDbContext<DataContext>(options =>
             options.UseSqlServer(Configuration.GetConnectionString("BethanysPieShopConnection")));
 
+            services.AddTransient<IPieRepository, PieRepository>();
+            services.AddTransient<ICategoryRepository, CategoryRepository>();
+            services.AddScoped<ShoppingCart>(sp => ShoppingCart.GetCart(sp));
             services.AddHttpContextAccessor();
             services.AddSession();
-
-            services.AddScoped<IPieRepository, PieRepository>();
-            services.AddScoped<ICategoryRepository, CategoryRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -50,6 +51,7 @@ namespace BethanysPieShop
 
             app.UseHttpsRedirection();
             app.UseStaticFiles();
+
             app.UseSession();
 
             app.UseRouting();
